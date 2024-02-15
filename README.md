@@ -24,5 +24,5 @@
 <br />
 <p> </p>
 
-![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=Karzen&layout=compact)
+![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=Karzen&layout=compact&theme=transparent)
 
