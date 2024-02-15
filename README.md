@@ -21,3 +21,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 
+<a href="https://github.com/Karzen">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karzen&layout=compact" />
+</a>
